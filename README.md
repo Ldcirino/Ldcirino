@@ -32,26 +32,21 @@
 </picture>
 
 ---
-<!--
-### 🏆 Projetos em Destaque
+<p align="center">
+  <a href="https://github.com/Ldcirino/Projeto_softwareproduct" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=Ldcirino&repo=Projeto_softwareproduct&theme=dracula&hide_border=true" alt="Projeto Software Product" />
+  </a>
+  <a href="https://github.com/Ldcirino/APi_Rest_Spring" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=Ldcirino&repo=APi_Rest_Spring&theme=dracula&hide_border=true" alt="API REST Spring" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/repositorio" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=ldcirino&amp;repo=gestao_estoque&amp;theme=dracula&amp;hide_border=true" alt="Projeto Gestão de Estoque" />
-  </a>
-  <a href="https://github.com/JONATHAN-DEV-01/rpa_final" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=ldcirino&amp;repo=rpa_final&amp;theme=dracula&amp;hide_border=true" alt="Projeto RPA Final" />
+  <a href="https://github.com/Ldcirino/Projeto_Fullstack" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=Ldcirino&repo=Projeto_Fullstack&theme=dracula&hide_border=true" alt="Projeto Fullstack" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/JONATHAN-DEV-01/IA_Recomendacao_jogos" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=ldcirino&amp;repo=IA_Recomendacao_jogos&amp;theme=dracula&amp;hide_border=true" alt="Projeto IA Recomendação de Jogos" />
-  </a>
-  <a href="https://github.com/JONATHAN-DEV-01/Sistema-Feedback" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=ldcirino&amp;repo=Sistema-Feedback&amp;theme=dracula&amp;hide_border=true" alt="Sistema de Feedback" />
-  </a>
-</p>
--->
+
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de tecnologia
