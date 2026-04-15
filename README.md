@@ -40,11 +40,6 @@
     <img src="https://api-meus-status.vercel.app/api/pin/?username=Ldcirino&repo=APi_Rest_Spring&theme=dracula&hide_border=true" alt="API REST Spring" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Ldcirino/Projeto_Fullstack" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=Ldcirino&repo=Projeto_Fullstack&theme=dracula&hide_border=true" alt="Projeto Fullstack" />
-  </a>
 </p>
 
 ## 🧠 Sobre mim
